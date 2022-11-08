@@ -15,6 +15,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="a4f25250-85f3-4831-82d7-1c1b6c0d17ab" name="nstore.cz" url="http://nstore.cz">
+        <fileTransfer host="nstore.cz" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
