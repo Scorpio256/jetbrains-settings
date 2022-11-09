@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="50711189-5707-4b91-a966-2fbb3145c6f2" name="urbanec.org" url="http://222464.w64.wedos.net/">
+        <fileTransfer host="222464.w64.wedos.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="4c335e32-beb1-4903-afe5-43803908ad7e" name="Bender" url="http://innoit.dev">
         <fileTransfer host="innoit.dev" port="21">
           <advancedOptions>
@@ -17,6 +24,13 @@
       </webServer>
       <webServer id="a4f25250-85f3-4831-82d7-1c1b6c0d17ab" name="nstore.cz" url="http://nstore.cz">
         <fileTransfer host="nstore.cz" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="7bc49e02-560b-44f3-b49c-9d24a691e1fe" name="starink" url="http://211210.w10.wedos.net">
+        <fileTransfer host="211210.w10.wedos.net" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
