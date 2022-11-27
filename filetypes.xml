@@ -1,7 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="sess_f874b000e77da072f193aeb613" type="AUTO_DETECTED" />
       <mapping pattern="sess_07b5df413cd24b1066330d6d1a" type="AUTO_DETECTED" />
+      <mapping pattern="sess_d7bf74e2aac75de4c9221b6a36d62e4b" type="AUTO_DETECTED" />
+      <mapping pattern="sess_96aa28ab2bd7c4fe54133f6860" type="AUTO_DETECTED" />
+      <mapping pattern="sess_ff1aa23ad5856e29097b46da19" type="AUTO_DETECTED" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
     </extensionMap>
